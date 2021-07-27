@@ -1,4 +1,4 @@
-# SHL_Intern
+# Automated Essay Scoring
 This is my solution for SHL intern challenge.
 
 
