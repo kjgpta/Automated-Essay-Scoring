@@ -3,7 +3,7 @@ This is my solution for SHL intern challenge.
 
 
 ## Training a classification system 
-I follow a very simple yet state of the art modeling techique for classification using [ROBERTA transformer model](https://github.com/ThilinaRajapakse/simpletransformers/blob/a7e7fff393dc578457b2d854218a31b4d2c84634/docs/_docs/08-multi-class-classification.md)
+I follow a very simple yet state of the art modeling technique for classification using [ROBERTA transformer model](https://github.com/ThilinaRajapakse/simpletransformers/blob/a7e7fff393dc578457b2d854218a31b4d2c84634/docs/_docs/08-multi-class-classification.md)
 
 I bucket scores into each class of 0.5 interval, hence, I get 11 classes. for each essay, I join the problem statement and the essay into 1 single line and then my model classifies each essay to one single bucket. For example, if my model classifies an essay into bucket 6 then I assign it 2.5 score. 
 
