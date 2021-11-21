@@ -1,5 +1,4 @@
 # Automated Essay Scoring
-This is my solution for SHL intern challenge.
 
 
 ## Training a classification system 
